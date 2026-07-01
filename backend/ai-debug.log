@@ -1,0 +1,81 @@
+
+--- ENHANCED NOTES [Quantitative - Algebra] ---
+**Algebra Study Guide**
+=======================
+
+### Concepts
+
+Algebra is a branch of mathematics that deals with the study of variables and their relationships. It involves the use of symbols, equations, and formulas to solve problems and make predictions. The core concepts of algebra include:
+
+* **Variables**: Symbols that represent unknown values or quantities.
+* **Constants**: Numbers that do not change value.
+* **Expressions**: A combination of variables, constants, and mathematical operations.
+* **Equations**: Statements that express the equality of two expressions.
+* **Inequalities**: Statements that express the relationship between two expressions as greater than, less than, or equal to.
+
+**Key Algebraic Concepts**
+
+| Concept | Description |
+| --- | --- |
+| Linear Equations | Equations in which the highest power of the variable is 1. |
+| Quadratic Equations | Equations in which the highest power of the variable is 2. |
+| Functions | Relations between variables that assign to each input exactly one output. |
+| Graphs | Visual representations of functions or equations. |
+
+### Formulas
+
+Here are some essential algebraic formulas:
+
+| Formula | Description |
+| --- | --- |
+| a + b = c | Addition of two numbers. |
+| a - b = c | Subtraction of two numbers. |
+| a × b = c | Multiplication of two numbers. |
+| a ÷ b = c | Division of two numbers. |
+| x + y = z | Linear equation in one variable. |
+| x² + y² = z² | Pythagorean theorem. |
+
+### Shortcuts
+
+Here are some time-saving tricks and mental math techniques:
+
+* **FOIL Method**: Use the FOIL method to multiply two binomials: (a + b)(c + d) = ac + ad + bc + bd.
+* **Quadratic Formula**: Use the quadratic formula to solve quadratic equations: x = (-b ± √(b² - 4ac)) / 2a.
+* **Simplifying Expressions**: Simplify expressions by combining like terms and using the distributive property.
+* **Factoring**: Factor expressions by finding common factors and using the difference of squares formula.
+
+### Examples
+
+#### Level 1: Basic
+
+* **Example 1.1**: Solve the equation 2x + 5 = 11.
+	+ Step 1: Subtract 5 from both sides of the equation.
+	+ Step 2: Divide both sides of the equation by 2.
+	+ Answer: x = 3.
+* **Example 1.2**: Simplify the expression 2x + 3x.
+	+ Step 1: Combine like terms.
+	+ Step 2: Add the coefficients of x.
+	+ Answer: 5x.
+
+#### Level 2: Medium
+
+* **Example 2.1**: Solve the equation x² + 4x + 4 = 0.
+	+ Step 1: Factor the quadratic expression.
+	+ Step 2: Set each factor equal to 0 and solve for x.
+	+ Answer: x = -2.
+* **Example 2.2**: Graph the equation y = x² - 4x + 4.
+	+ Step 1: Identify the vertex of the parabola.
+	+ Step 2: Determine the direction and shape of the parabola.
+	+ Answer: The graph is a downward-opening parabola with a vertex at (2, -4).
+
+#### Level 3: Hard
+
+* **Example 3.1**: Solve the inequality 2x - 5 > 3x + 2.
+	+ Step 1: Subtract 2x from both sides of the inequality.
+	+ Step 2: Add 5 to both sides of the inequality.
+	+ Step 3: Divide both sides of the inequality by -1 (reversing the inequality sign).
+	+ Answer: x < -1.
+* **Example 3.2**: Find the value of x that satisfies the equation x³ + 2x² - 5x - 6 = 0.
+	+ Step 1: Factor the cubic expression.
+	+ Step 2: Set each factor equal to 0 and solve for x.
+	+ Answer: x = -1, x = 2, or x = -3.
